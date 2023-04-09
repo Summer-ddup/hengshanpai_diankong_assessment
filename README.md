@@ -16,3 +16,5 @@
 * 菜鸟教程：https://www.runoob.com/ <br/>
 * 嘉立创开源硬件平台：https://oshwhub.com/ <br/>
 * 清华大学开源软件镜像站：https://mirrors.tuna.tsinghua.edu.cn/ <br/>
+* C++标准库推荐学习链接：https://zh.cppreference.com/ <br/>
+* Pytorch中文文档:https://pytorch-cn.readthedocs.io/zh/latest/ <br/>
