@@ -10,5 +10,9 @@
 ### 前提条件
 * 充分利用好团队用品，减少不必要的支出花费。
 
-
-Watt Toolkit加速器下载网址：https://steampp.net/
+### 资料
+* Watt Toolkit加速器下载网址：https://steampp.net/ <br/>
+* 正点原子论坛：http://47.111.11.73/forum.php <br/>
+* 菜鸟教程：https://www.runoob.com/ <br/>
+* 嘉立创开源硬件平台：https://oshwhub.com/ <br/>
+* 清华大学开源软件镜像站：https://mirrors.tuna.tsinghua.edu.cn/ <br/>
