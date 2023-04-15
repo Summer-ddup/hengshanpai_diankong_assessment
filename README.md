@@ -10,7 +10,9 @@
 ### 前提条件
 * 充分利用好团队用品，减少不必要的支出花费。
 
-### 资料
+&nbsp;
+
+## -资料
 * Watt Toolkit加速器下载网址：https://steampp.net/ <br/>
 * 正点原子论坛：http://47.111.11.73/forum.php <br/>
 * 菜鸟教程：https://www.runoob.com/ <br/>
@@ -18,3 +20,11 @@
 * 清华大学开源软件镜像站：https://mirrors.tuna.tsinghua.edu.cn/ <br/>
 * C++标准库推荐学习链接：https://zh.cppreference.com/ <br/>
 * Pytorch中文文档:https://pytorch-cn.readthedocs.io/zh/latest/ <br/>
+
+&nbsp;
+
+## -干货
+### 硬件
+* STM32F103C8T6系统板讲解：https://blog.csdn.net/lgyLGY35/article/details/119715334?ops_request_misc=&request_id=&biz_id=102&utm_term=stm32f103c8t6&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-119715334.142^v83^insert_down38,239^v2^insert_chatgpt&spm=1018.2226.3001.4187
+
+
