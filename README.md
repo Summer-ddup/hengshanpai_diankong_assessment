@@ -27,5 +27,12 @@
 ### 硬件
 * STM32F103C8T6系统板讲解：https://blog.csdn.net/lgyLGY35/article/details/119715334?ops_request_misc=&request_id=&biz_id=102&utm_term=stm32f103c8t6&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-119715334.142^v83^insert_down38,239^v2^insert_chatgpt&spm=1018.2226.3001.4187
 
-## 比赛通知
+## -比赛通知
 * 关于第二十二届全国大学生机器人大赛ROBOCON中期检查的通知：https://mp.weixin.qq.com/s?__biz=Mzg4MjUyNjc5Mw==&mid=2247505096&idx=1&sn=484ce92ab31a73934c7a9b3383e75579&chksm=cf57cbeef82042f8825456a135579b2ea25273dd722e8f82b9d38a855d34b0dd3639d29f3541&mpshare=1&scene=23&srcid=0415y4F96QyNBp5LXXp5IUZL&sharer_sharetime=1681524238202&sharer_shareid=918661c446321ceac7c8bcbf6911ba71#rd
+
+&nbsp;
+
+## -浅浅记录些东西~
+* 不需要VPN与翻墙，完美解决obsidian无法加载第三方插件（社区插件）的问题： https://zhuanlan.zhihu.com/p/430538023?utm_id=0
+* obsidian插件使用问题罗列及解决方案： https://zhuanlan.zhihu.com/p/469748902
+* Obsidian 国内插件安装指北： https://blog.csdn.net/qq_35056292/article/details/127578525
