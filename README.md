@@ -12,7 +12,7 @@
 
 &nbsp;
 
-## -资料
+## -资源网站
 * Watt Toolkit加速器下载网址：https://steampp.net/ <br/>
 * 正点原子论坛：http://47.111.11.73/forum.php <br/>
 * 菜鸟教程：https://www.runoob.com/ <br/>
@@ -22,6 +22,9 @@
 * Pytorch中文文档:https://pytorch-cn.readthedocs.io/zh/latest/ <br/>
 
 &nbsp;
+
+## -入门资料
+* 小白第一款STM32该怎么选？资深工程师告诉你不知道的STM32选型技巧！：https://www.bilibili.com/video/BV1nP411S7w1/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=c87ff7c4ae6f63a22251a3e33f56b030
 
 ## -干货
 ### 硬件
