@@ -35,7 +35,4 @@
 
 &nbsp;
 
-## -浅浅记录些东西~
-* 不需要VPN与翻墙，完美解决obsidian无法加载第三方插件（社区插件）的问题： https://zhuanlan.zhihu.com/p/430538023?utm_id=0
-* obsidian插件使用问题罗列及解决方案： https://zhuanlan.zhihu.com/p/469748902
-* Obsidian 国内插件安装指北： https://blog.csdn.net/qq_35056292/article/details/127578525
+
